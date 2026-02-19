@@ -1,7 +1,7 @@
-#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
+⁸#### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 
 # ReVanced Magisk Module
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rex_magisk)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/morphe_modules)
 [![CI](https://github.com/LemonyOwO/rex-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/LemonyOwO/rex-magisk-module/actions/workflows/ci.yml)
 
 Extensive ReVanced builder  
